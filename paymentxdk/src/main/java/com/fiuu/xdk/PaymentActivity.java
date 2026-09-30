@@ -157,7 +157,7 @@ public class PaymentActivity extends AppCompatActivity {
                     + "return nativeSubmit.apply(this,arguments);};})();";
     private final static String module_id = "module_id";
     private final static String wrapper_version = "wrapper_version";
-    private final static String wrapperVersion = "42a";
+    private final static String wrapperVersion = "43a";
     private static final String TNG_EWALLET_PACKAGE = "my.com.tngdigital.ewallet";
 
     private String filename;
